@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 <!--# Hey 👋, I'm [Anmol](https://github.com/anmol0001) !-->
 
-[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Udbhav|https://ngudbhav.com)" title="👋 Hi there! I'm Udbhav|https://ngudbhav.com)"/>](https://ngudbhav.com/)
+[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Anmol" title="👋 Hi there! I'm Anmol"/>](https://github.com/anmol0001)
 <br /> <br/>
