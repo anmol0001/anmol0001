@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--# Hey 👋, I'm [Anmol](https://github.com/anmol0001) !-->
+# Hey 👋, I'm [Anmol](https://github.com/anmol0001)
 
-[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Anmol" title="👋 Hi there! I'm Anmol"/>](https://github.com/anmol0001)
-<br /> <br/>
