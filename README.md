@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey 👋, I'm [Anmol](https://digiphonebook.netlify.com)
+# Hey 👋, I'm [Anmol](https://github.com/anmol0001)
 
