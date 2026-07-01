@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Jindal</h1>
 
 <h3 align="center">
-Backend Software Engineer | Node.js | PostgreSQL | Redis | Kafka | Docker
+Software Engineer | Node.js | React.js | PostgreSQL | MongoDB | Redis | Kafka | Docker
 </h3>
 
 <p align="center">
@@ -116,16 +116,16 @@ Building scalable backend systems, distributed services, and AI-powered applicat
 
 ## 🤝 Connect with Me
 
-<p>
+<!--<p>
 
 <a href="https://linkedin.com/in/anmol-jindal-ajd">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</p>
+</p>-->
 
-<!--- 💼 LinkedIn: https://linkedin.com/in/anmol-jindal-ajd
--->
+💼 LinkedIn: https://linkedin.com/in/anmol-jindal-ajd
+
 ---
 
 > *"Building software that scales, performs, and lasts."*
